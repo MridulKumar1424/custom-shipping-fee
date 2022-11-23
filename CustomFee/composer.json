@@ -1,5 +1,5 @@
 {
-  "name": "Mridul/customfee",
+  "name": "mridul/customfee",
   "description": "This module adds custom fee at checkout",
   "type": "magento2-module",
   "version": "1.0.0",
